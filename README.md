@@ -15,6 +15,7 @@ This is a simple exercise to practice making your first commit.
 | Name | Email |
 |------|-------|
 | Tito Julio González Padial | titojuliogonzalez@gmail.com |
+| Vanessa Pešlová | vanessa.peslova@seznam.cz|
 
 ## 🔗 Links
 
